@@ -172,7 +172,7 @@ h5:hover{
 }
 
 
-@media screen and (max-width:480px) {
+@media screen and (max-width: 550px) {
   
     body{
         margin: 1em;
